@@ -18,3 +18,6 @@ Created an interactive dashboard for Amazon sales data to track revenue and perf
 ### Files
 - Amazon Sale Report.csv (Original)
 - Amazon sales dashboard FINAL.pbix (Final file with cleaned data)
+  # Note
+- "CSV file is larger(18MB), GitHub cannot preview large files.
+- please click on 'view Raw' or 'Download' to see the full data.
